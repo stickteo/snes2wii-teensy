@@ -18,8 +18,7 @@ Follow this link <https://www.pjrc.com/teensy/first_use.html>
 Generally:
 
 1. `sudo apt-get install libusb-dev`
-2.
-On ubuntu, we can install the teensy loader application by `sudo apt-get install teensy_loader_cli`
+2. On ubuntu, we can install the teensy loader application by `sudo apt-get install teensy_loader_cli`
 3. <https://www.pjrc.com/teensy/49-teensy.rules>,  `sudo cp 49-teensy.rules /etc/udev/rules.d/`
 4. `sudo apt-get install gcc-avr binutils-avr avr-libc`
 
